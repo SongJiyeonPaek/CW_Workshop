@@ -1,1 +1,2 @@
-"This is from Jiyeon."
+"This is from Jiyeon"
+"This is the second line from Jiyeon"
